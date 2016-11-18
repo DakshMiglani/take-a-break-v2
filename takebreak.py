@@ -9,6 +9,6 @@ while(takenBreaks < totalBreaks):
     webbrowser.open_new("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
 
 
-print("The link was opened on " + time.ctime() + "This program was made of A Shah.")
+print("The link was opened on " + time.ctime() + " Program by Daksh Miglani")
 if(takenBreaks == totalBreaks):
         print("The Program has finished the work.")
